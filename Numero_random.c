@@ -9,7 +9,7 @@ int a = {0};
 
 srand(time(NULL));
 
-a = rand() % 101;
+a = rand() % 81;
 
 printf("%d", a);
 
